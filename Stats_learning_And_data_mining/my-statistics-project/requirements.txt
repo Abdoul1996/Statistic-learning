@@ -1,1 +1,7 @@
-# List dependencies here
+matplotlib
+pandas
+numpy
+seaborn
+scipy
+scikit-learn
+statsmodels
